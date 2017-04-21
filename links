@@ -1,0 +1,12 @@
+https://hub.docker.com/r/marcelstoer/nodemcu-build/
+
+https://www.sitebase.be/build-custom-esp8266-firmware/
+
+
+http://www.guillier.org/blog/tag/esp8266.html
+
+First: 
+
+
+file.remove("user.lua")
+node.restart()
